@@ -1,0 +1,19 @@
+### Headers settings
+company: beka
+
+### Xcode project settings
+project_name: ViperAssignment
+xcodeproj_path: ViperAssignment.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: ViperAssignment
+
+project_file_path: ViperAssignment
+
+project_group_path: ViperAssignment
+
+### Templates
+templates:
+- {name: swifty_viper}
+
